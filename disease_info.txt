@@ -1,0 +1,13 @@
+血液肿瘤基因表达转录组测序	AR435_301
+血液肿瘤转录组测序	AR435_301
+血液肿瘤融合基因筛查全套	RNA
+血液肿瘤相关变异筛查302基因(DNA+RNA)-RNA	RNA
+AML相关变异筛查70基因(DNA+RNA)-RNA	RNA
+MPN相关变异筛查56基因(DNA+RNA)-RNA	RNA
+血液肿瘤相关变异筛查302基因(DNA+RNA)(肿瘤+对照)-RNA	RNA
+血液肿瘤基因筛查全面版(DNA+RNA)-RNA	AR435_301
+ALL相关基因变异筛查(DNA+RNA)-RNA	RNA
+血液肿瘤融合基因初筛	RNA
+血液肿瘤全面版(DNA+RNA)-RNA	RNA
+实体瘤RNA融合基因筛查	RNA
+实体瘤785基因检测全景版(DNA+RNA)	RNA    
